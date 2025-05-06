@@ -17,7 +17,7 @@
  <br>
 <설명> <br>
 -번역할 내용과 언어 입력 후, Execute 버튼 클릭 시, 선택한 언어로 내용이 번역된다. <br>
-- FastAPI main - 화면구현 상세 코드 <br>
+- FastAPI - 화면구현 상세 코드 <br>
 https://github.com/hsy2493/Langchatbot/blob/main/main.py <br>
 
 
